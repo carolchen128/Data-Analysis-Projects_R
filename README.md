@@ -11,7 +11,7 @@ Questions: Do the data suggest that the performance of treatment students is bet
 
 2) Middle school Computerized Assessment Data 
 
-Data: the original data consisted of the performance of 615 students in 24 classes with six teachers on the two standardized assessments (pre- and post-tests) and one benchmark assessment. Of the 615 students who participated in the study, 479 (78%) students had complete data for all three assessments, while 136 (22%) students had missing values; and 7 (1%) students chose to opt out of the assessment, which means that their data cannot be included in research. In this report, student data with missing values and opt out choices were removed, leaving a final data of 473 students. Of these, 303 (64%) students were in the treatment group and 170 (36%) students in the control group. 
+Data: the original data consisted of the performance of 615 students in 24 classes with six teachers on the two standardized assessments (pre- and post-tests) and one benchmark assessment.Student data with missing values and opt out choices were removed, leaving a final data of 473 students. Of these, 303 (64%) students were in the treatment group and 170 (36%) students in the control group. 
 
 Tasks: data cleaning and manipulation, ANOVA, T-TEST
 
